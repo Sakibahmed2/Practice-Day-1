@@ -32,7 +32,7 @@
     margin-bottom: 10px;
 }
 .primary-btn{
-    background-color: #FF5959;
+    background-color: orangered;
     border: none;
     padding: 20px;
     font-size: 20px;
@@ -84,11 +84,11 @@ main{
     border: none;
     padding: 20px;
     font-size: 20px;
-    color: #FF5959;
+    color: orangered;
     font-weight: 600;
     border-radius: 5px;
     margin-right: 10px;
-    border: 2px solid #FF5959;
+    border: 2px solid orangered;
 }
 .other-amount{
     text-align: center;
@@ -291,3 +291,15 @@ input{
     top: 3010px;
     
 }
+
+.humbel{
+    background :#000000;
+    height: 150px;
+}
+.humbel h1{
+    color: orangered;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    padding: 50px;
+}
+/* font-family: 'Lobster', cursive; */
